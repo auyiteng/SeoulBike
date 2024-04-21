@@ -60,7 +60,7 @@ Decision tree analysis to predict bike rental counts based on features.
 
 Random forest analysis for predicting bike rental counts.
 
-For detailed code and analysis, please refer to the SC1015.ipynb notebook.
+For detailed code and analysis, please refer to the SeoulBike.ipynb notebook.
 
 ## Contributors
 
